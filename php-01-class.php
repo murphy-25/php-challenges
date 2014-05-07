@@ -5,7 +5,7 @@
 <p>To expand from this:</p>
 <ul>
     <li>A interface could be used.</li>
-    <li>The session could be stored in a session on the client browser.</li>
+    <li>The shopping cart could be stored in a session on the client browser.</li>
 </ul>
 
 <?php
