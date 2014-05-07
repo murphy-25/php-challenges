@@ -9,7 +9,7 @@ It must support:
   - Anything else you think useful
 (Note: for brevity, products can be represented in a non oo form e.g. an assoc array)
 
-<b>php-02-db.php & ShoppingCart.php<b><br>
+<b>php-02-db.php & ShoppingCart.php</b><br>
 Connect to a MySQL Database Server running on localhost and execute a query
 to find all records that match an ID provided by a query string variable called
 id
@@ -17,7 +17,6 @@ id
 method of connection and querying)
 
 <b>php-03-lambda.php</b><br>
-
 Create a lambda to recursively remove empty elements from the array $raw
 
 <b>php-04-fizzbuzz.php</b><br>
