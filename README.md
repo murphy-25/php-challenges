@@ -22,7 +22,7 @@ php-03-lambda.php
 
 Create a lambda to recursively remove empty elements from the array $raw
 
-php-04-fizzbuzz.php
+<b>php-04-fizzbuzz.php</b>
 
 Print the numbers from 1 to 100. But for multiples of three print “Fizz”
 instead of the number and for the multiples of five print “Buzz”. For
